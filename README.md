@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/adhi5308?style=for-the-badge&logo=github&color=FFFF00&labelColor=000000)](https://github.com/adhi5308)
+  [![GitHub followers](https://img.shields.io/badge/FOLLOWERS-GitHub-FFFF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/adhi5308)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFF00)](https://www.linkedin.com/in/adhi-s-330b09360/)
   
 </div>
