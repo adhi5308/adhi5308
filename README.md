@@ -97,10 +97,10 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/adhis">
+<a href="https://github.com/adhi5308">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adhis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/adhis">
+<a href="https://github.com/adhi5308">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
@@ -122,7 +122,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Adhi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adhis&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/adhis)
+[![Adhi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adhi5308&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/adhis)
 
 </div>
 
@@ -132,7 +132,7 @@ print(me.motto())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adhis&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adhi5308&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -218,7 +218,7 @@ print(me.motto())
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://adhi-s-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhis)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adhis)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adhi5308)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adhimylu@gmail.com)
 
 *"Solve real problems. Ship real solutions." — Adhi S*
