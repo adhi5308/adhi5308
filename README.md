@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Adhi+%F0%9F%91%8B;IoT+%2B+Blockchain+%2B+Web+Dev+%3D+%E2%9D%A4%EF%B8%8F;Building+tech+that+solves+real+problems;First-Year+CSE+%7C+LICET+%7C+India)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=adhis&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=adhi5308&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
@@ -20,7 +20,7 @@ class AdhiS:
         self.degree          = "B.E. Computer Science Engineering @ LICET (2025–2029)"
         self.email           = "adhimylu@gmail.com"
         self.portfolio       = "adhi-s-portfolio.vercel.app"
-        self.linkedin        = "linkedin.com/in/adhis"
+        self.linkedin        = "linkedin.com/in/adhi-s-330b09360"
 
         self.stack = [
             "IoT & Embedded Systems (ESP32, Arduino)",
@@ -112,7 +112,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=adhis&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=adhi5308&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -122,7 +122,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Adhi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adhi5308&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/adhis)
+[![Adhi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adhi5308&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/adhi5308)
 
 </div>
 
@@ -217,7 +217,7 @@ print(me.motto())
 ### 🤝 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://adhi-s-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhi-s-330b09360)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adhi5308)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adhimylu@gmail.com)
 
