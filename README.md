@@ -84,7 +84,7 @@ __|_____|____________________________________________________|_____|
   <img src="https://i.pinimg.com/originals/04/b5/71/04b5711d4299553b6a5cf9ce0eb25888.gif" alt="Bat emblem" width="260" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" height="25" /> CRIMINAL DATABASE TRACKING
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" height="25" /> SPIDER-STATS LOADING
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adhi5308&show_icons=true&bg_color=000000&title_color=FFFF00&text_color=FFFFFF&icon_color=FFFF00&border_color=FFFF00&count_private=true"/>
@@ -95,21 +95,21 @@ __|_____|____________________________________________________|_____|
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="25" height="25" /> ACTIVATE THE BAT SIGNAL
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="25" height="25" /> PING YOUR FRIENDLY NEIGHBOUR
 
 <div align="center">
-  <p>Commissioner Gordon knows how to reach me. So can you.</p>
+  <p>Even Mysterio couldn't hide from my web. Neither can you.</p>
   
   <a href="mailto:adhimylu@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFF00&label=ACTIVATE_BAT_SIGNAL">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFF00&label=SHOOT_THE_WEB">
   </a>
   
   <a href="https://www.linkedin.com/in/adhi-s-330b09360/">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFF00&label=PROFESSIONAL_NETWORK">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFF00&label=DAILY_BUGLE_NETWORK">
   </a>
 
   <a href="https://adhi-s-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=FFFF00&label=VIEW_WORK">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=FFFF00&label=ENTER_SPIDER_LAIR">
   </a>
   
 </div>
