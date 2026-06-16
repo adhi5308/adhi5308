@@ -28,9 +28,10 @@
         __                                                   __
        ( _)                                                 (_  )
   _|___|_    IDENTITY: Adhi S                             ___|___|_
- (_______) ALIAS: The Dark Knight of Code               (_________)
-  |     |  LOCATION: The Batcave, India                   |     |
-  |     |        STATUS: Defending Gotham's Code          |     |
+ (_______) ALIAS: Your Friendly Neighborhood Coder       (_________)
+  |     |  LOCATION: The Web, India                          |     |
+  |     |  STATUS: With Great Code Comes                     |     |
+  |     |                     Great Responsibility           |     |
 __|_____|____________________________________________________|_____|
 ```
 
