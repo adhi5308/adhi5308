@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://thebatmanuniverse.net/wp-content/uploads/2019/02/tbu-why-i-write.jpg" width="100%">
+  <img src="https://github.com/adhi5308/adhi5308/blob/main/assets/spidey.jpeg" width="100%">
 </div>
 
 <h1 align="center">
