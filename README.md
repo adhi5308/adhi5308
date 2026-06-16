@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Gotham&size=35&duration=3000&pause=1000&color=FFFF00&center=true&vCenter=true&width=700&lines=ADHI+S;THE+DARK+KNIGHT+OF+CODE;DEFENDER+OF+CLEAN+ARCHITECTURE;GOTHAM'S+DIGITAL+PROTECTOR" />
+  <img src="https://readme-typing-svg.demolab.com?font=Gotham&size=35&duration=3000&pause=1000&color=FFFF00&center=true&vCenter=true&width=700&lines=ADHI+S;YOUR+FRIENDLY+NEIGHBOURHOOD+CODER;WITH+GREAT+POWER+COMES+GREAT+CODE;SPINNING+WEBS+OF+INNOVATION" />
 </h1>
 
 <div align="center">
