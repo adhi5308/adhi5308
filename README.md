@@ -38,7 +38,7 @@ __|_____|____________________________________________________|_____|
 </div>
 
 <div align="center">
-  <img src="https://github.com/adhi5308/adhi5308/blob/main/assets/spidey-1.png" alt="Bat Logo" width="420" />
+  <img src="https://github.com/adhi5308/adhi5308/blob/main/assets/spidey-1.png" alt="Bat Logo" width="250" />
 </div>
 
 <div align="center">
