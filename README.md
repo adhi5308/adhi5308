@@ -81,7 +81,7 @@ __|_____|____________________________________________________|_____|
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/04/b5/71/04b5711d4299553b6a5cf9ce0eb25888.gif" alt="Bat emblem" width="260" />
+  <img src="https://github.com/adhi5308/adhi5308/blob/main/assets/spidey_gif.gif" alt="Bat emblem" width="260" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" height="25" /> SPIDER-STATS LOADING
