@@ -15,7 +15,7 @@
 
 <h2 align="center">
   <img src="https://github.com/adhi5308/adhi5308/blob/main/assets/bat-logo-glow-mask.png" width="25" height="25" /> 
-  BATCOMPUTER SYSTEMS ONLINE
+  SPIDER-SENSE ACTIVATED
 </h2>
 
 <p align="center">
@@ -42,7 +42,7 @@ __|_____|____________________________________________________|_____|
 </div>
 
 <div align="center">
-  <h2 style="display: inline-block; vertical-align: middle; margin: 0;">Bat Arsenal</h2>
+  <h2 style="display: inline-block; vertical-align: middle; margin: 0;">Spidey's Toolkit</h2>
 </div>
 <div align="center">
   
